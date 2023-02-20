@@ -17,9 +17,9 @@ src="https://img.shields.io/twitter/follow/1finebreed?logo=twitter&style=for-the
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Klin-Coders/Klin-Coders/raw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Klin-Coders/Klin-Coders/raw/output/github-snake.svg">
-  <img alt="snk" src="https://github.com/Klin-Coders/Klin-Coders/raw/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Klin-Coders/Klin-Coders/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Klin-Coders/Klin-Coders/blob/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/Klin-Coders/Klin-Coders/blob/output/github-snake.svg">
 </picture>
 
 ### Skills
