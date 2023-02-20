@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Olaseeni Bayode
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Bayode,+Emmanuel+Olaseeni&center=true&size=30"></a></h1>My name is Emmanuel Olaseeni Bayode
 ================================================================================================================================================
 
 Fullstack Web and Mobile Software Dev.
