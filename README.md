@@ -15,6 +15,14 @@ src="https://img.shields.io/github/followers/Klin-Coders?logo=github&style=for-t
 src="https://img.shields.io/twitter/follow/1finebreed?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+
+### CONTRIBUTION GAME
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Klin-Coders/Klin-Coders/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Klin-Coders/Klin-Coders/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/Klin-Coders/Klin-Coders/raw/output/github-snake.svg">
+</picture>
+
 ### Skills
 
 
@@ -57,8 +65,3 @@ src="https://img.shields.io/twitter/follow/1finebreed?logo=twitter&style=for-the
 <a href="http://www.github.com/Klin-Coders"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Klin-Coders&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Klin-Coders" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klin-Coders&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Klin-Coders&theme=react-dark&bg_color=1B1917&hide_border=true" width="100%"/>
-    </br>
- <img src="https://raw.githubusercontent.com/Klin-Coders/Klin-Coders/output/ocean.svg" alt="GitHub Snake" width="100%"/>
