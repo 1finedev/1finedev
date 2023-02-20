@@ -1,9 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Bayode,+Emmanuel+Olaseeni&center=true&size=30"></a>
-</h1>Emmanuel Olaseeni Bayode
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Emmanuel Olaseeni Bayode
 ================================================================================================================================================
 
 Fullstack Web and Mobile Software Dev.
@@ -63,8 +58,7 @@ src="https://img.shields.io/twitter/follow/1finebreed?logo=twitter&style=for-the
 
 <a href="https://github.com/Klin-Coders" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klin-Coders&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ramazansancar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    </br>
+ <img src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg" alt="GitHub Snake" width="100%"/>
