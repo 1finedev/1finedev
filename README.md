@@ -16,7 +16,6 @@ src="https://img.shields.io/twitter/follow/1finebreed?logo=twitter&style=for-the
 /></a>
 
 
-### CONTRIBUTION GAME
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Klin-Coders/Klin-Coders/raw/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Klin-Coders/Klin-Coders/raw/output/github-snake.svg">
