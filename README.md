@@ -6,7 +6,7 @@ Fullstack Web and Mobile Software Dev.
 
 Tech Advocate | Music Addict | Ambivert | Chelsea FC | Fullstack Mobile and Web Dev.
 
-* 🌍  I'm based in Istanbul Turkey
+* 🌍  I live in Istanbul Turkey
 * 🧠  I'm learning Everything, Exploring the JS ecosystem
 * 🤝  I'm open to collaborating on Jamstack, Nextjs, React, Svelte, Nodejs, 3D Web Animations, All things JS 💜
 
