@@ -10,16 +10,16 @@ Tech Advocate | Music Addict | Ambivert | Chelsea FC | Fullstack Mobile and Web 
 * 🧠  I'm learning Everything, Exploring the JS ecosystem
 * 🤝  I'm open to collaborating on Jamstack, Nextjs, React, Svelte, Nodejs, 3D Web Animations, All things JS 💜
 
-<a href="https://www.github.com/Klin-Coders" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Klin-Coders?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/1finebreed" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/1finedev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/1finedev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/1finebreed" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/1finebreed?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Klin-Coders/Klin-Coders/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Klin-Coders/Klin-Coders/blob/output/github-contribution-grid-snake.svg">
-  <img alt="snk" src="https://github.com/Klin-Coders/Klin-Coders/blob/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/1finedev/1finedev/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/1finedev/1finedev/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snk" src="https://github.com/1finedev/1finedev/blob/output/github-snake.svg">
 </picture>
 
 ### Skills
@@ -51,16 +51,16 @@ src="https://img.shields.io/twitter/follow/1finebreed?logo=twitter&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Klin-Coders" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bayode-emmanuel-olaseeni-53b468103/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/1finebreed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/1finedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bayode-emmanuel-olaseeni-53b468103/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/1finebreed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Klin-Coders"><img src="https://github-readme-stats.vercel.app/api?username=Klin-Coders&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Klin-Coders's GitHub stats" /></a>
+<a href="http://www.github.com/1finedev"><img src="https://github-readme-stats.vercel.app/api?username=1finedev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="1finedev's GitHub stats" /></a>
 
-<a href="http://www.github.com/Klin-Coders"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Klin-Coders&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/1finedev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=1finedev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Klin-Coders"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Klin-Coders&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/1finedev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=1finedev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Klin-Coders" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klin-Coders&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/1finedev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1finedev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
